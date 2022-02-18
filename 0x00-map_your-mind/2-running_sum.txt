@@ -1,0 +1,6 @@
+FOR loop
+ Read number x
+ set sum to 0
+ While (x>=0)
+ set sum to x+sum
+ Write x

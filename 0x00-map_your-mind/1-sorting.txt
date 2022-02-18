@@ -1,0 +1,13 @@
+Read  number x,y,z
+If (numx<numy<numz)
+  Write numx,numy,numz
+else If (numx,numz,numy)
+  Write numx,numz, numy)
+else If (numy,numnumx,numz)
+  Write numy,numx,numz)
+else If (numy,numz,numx)
+  Write numy,numz,numx
+else If (numz,numx,numy)
+  Write numz,numx,numy
+else If (numz,numy,numx)
+  Write numz,numy,numx 
